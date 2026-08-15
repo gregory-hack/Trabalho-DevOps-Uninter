@@ -8,7 +8,7 @@ def boas_vindas(nome):
 
 def despedida(nome):
     agora = datetime.now().strftime("%d/%m/%Y %H:%M")
-    print(f"Olá, {nome}! Obrigado por ter feito parte do time Code Factory, desejamos boa sorte e muito sucesso em sua nov jornada.")
+    print(f"Olá, {nome}! Obrigado por ter feito parte do time Code Factory, desejamos boa sorte e muito sucesso em sua nova jornada.")
     print(f"Ambiente configurado com sucesso em {agora}.")
 
 if __name__ == "__main__":
@@ -72,4 +72,6 @@ def gerar_html(nome, agora):
 
 
 if __name__ == "__main__":
-    boas_vindas("Novo Colaborador")
+    nome = "Novo Colaborador"
+    agora = boas_vindas(nome)
+    despedida(nome)
