@@ -7,8 +7,8 @@
 
 O **CodeFactory Boas-Vindas** é um script em Python que simula a mensagem
 de boas-vindas exibida aos novos funcionários. da CodeFactory Solutions. É utilizado
-como projeto de referência para demonstrar, na prática, a adoção da Cultura DevOps
-pela equipe: versionamento com Git/GitHub, containerização com Docker e um pipeline
+como projeto de referência para demonstrar, na prática, a adoção da Cultura DevOps:
+versionamento com Git/GitHub, containerização com Docker e um pipeline
 de Integração Contínua.
 
 ## Objetivo
@@ -42,7 +42,7 @@ codefactory-devops/
 
 ## Como instalar
 
-1. Clone o repositório: `git clone https://github.com/SEU-USUARIO/codefactory-devops.git`
+1. Clone o repositório: `git clone https://github.com/gregory-hack/codefactory-devops.git`
 2. Entre na pasta do projeto: `cd codefactory-devops`
 3. Siga as instruções da seção "Como executar" abaixo.
 
