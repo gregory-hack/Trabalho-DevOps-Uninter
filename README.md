@@ -20,10 +20,10 @@ equipe de desenvolvimento da CodeFactory Solutions.
 
 ## Tecnologias utilizadas
 
-- Python 3.11
-- pytest (testes automatizados)
-- Docker (containerização)
-- GitHub Actions (Integração Contínua)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-testes%20automatizados-0A9EDC?logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-containeriza%C3%A7%C3%A3o-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?logo=githubactions&logoColor=white)
 
 ## Estrutura de pastas
 
