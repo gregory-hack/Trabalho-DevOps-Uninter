@@ -7,8 +7,8 @@
 
 O **CodeFactory Boas-Vindas** é um script em Python que simula a mensagem
 de boas-vindas exibida aos novos funcionários da CodeFactory Solutions. É utilizado
-como projeto de referência para demonstrar, na prática, a adoção da Cultura DevOps:
-versionamento com Git/GitHub, containerização com Docker e um pipeline
+como projeto de referência para demonstrar, na prática, a adoção da Cultura DevOps
+pela equipe: versionamento com Git/GitHub, containerização com Docker e um pipeline
 de Integração Contínua.
 
 ## Objetivo
