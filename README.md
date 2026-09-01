@@ -71,5 +71,5 @@ python -m pytest
 
 ## Licença
 
-Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENSE
-para mais detalhes.
+Este projeto está licenciado sob os termos da licença MIT. 
+Veja o arquivo LICENSE para mais detalhes.
